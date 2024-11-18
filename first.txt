@@ -1,1 +1,2 @@
-This is Readme Text File of Live Cricket Tracker Project
+This is Readme Text File of Live Cricket Tracker Project.
+This is just to check the git status after upgrading.
